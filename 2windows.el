@@ -1,5 +1,5 @@
 ;; 2windows.el - Convenient 2 window creation and reorientation system for GNU Emacs.
-;; Copyright (C) 2023-2024 Soumendra Ganguly
+;; Copyright (C) 2023-2025 Soumendra Ganguly
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
